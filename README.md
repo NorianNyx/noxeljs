@@ -1,2 +1,2 @@
 # noxeljs
-A reinvention of ShelbyJS build in React/Redux
+A reinvention of ShelbyJS built in React/Redux
